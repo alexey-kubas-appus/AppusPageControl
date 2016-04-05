@@ -8,14 +8,14 @@
 
 Pod::Spec.new do |s|
   s.name         = "AppusPageControl"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "AppusPageControl allow you to use customisable page control with many featues"
   s.homepage     = "http://appus.pro"
 s.license      = { :type => "Apache", :file => "LICENSE" }
   s.author             = { "Alexey Kubas" => "alexey.kubas@appus.me" }
   s.platform     = :ios
   s.ios.deployment_target = "8.0"
-  s.source       = { :git => "https://github.com/alexey-kubas-appus/AppusPageControl.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/alexey-kubas-appus/AppusPageControl.git", :tag => "0.0.3" }
   s.source_files = "AppusPageControl", "AppusPageControl/*"
   s.frameworks             = 'Foundation', 'UIKit'
   s.requires_arc = true
