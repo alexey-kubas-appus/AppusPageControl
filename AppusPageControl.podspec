@@ -15,7 +15,7 @@ s.license      = { :type => "Apache", :file => "LICENSE" }
   s.author             = { "Alexey Kubas" => "alexey.kubas@appus.me" }
   s.platform     = :ios
   s.ios.deployment_target = "8.0"
-  s.source       = { :git => "https://github.com/alexey-kubas-appus/AppusPageControl.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/alexey-kubas-appus/AppusPageControl.git", :tag => "0.0.2" }
   s.source_files = "AppusPageControl", "AppusPageControl/*"
   s.frameworks             = 'Foundation', 'UIKit'
   s.requires_arc = true
