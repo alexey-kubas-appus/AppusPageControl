@@ -1,7 +1,7 @@
 AppusPageControl
 =====================
 
-Made by [![Appus Studio](https://github.com/appus-studio/Appus-Splash/blob/master/image/logo.png)](http://appus.pro)
+Made by [![Appus Studio](https://github.com/alexey-kubas-appus/AppusPageControl/blob/master/Resourse/appus.png)](https://appus.software)
 
 'AppusPageControl' very simple page control with custom styles.
 
@@ -18,12 +18,12 @@ pod 'AppusPageControl'
 Developed By
 ------------
 
-* Ilya Borshchov, Serhiy Sirotinin Appus Studio
+* Ilya Borshchov, Serhiy Sirotinin, [Appus Studio](https://appus.software)
 
 License
 --------
 
-Copyright 2015 Appus Studio.
+Copyright 2015 [Appus Studio](https://appus.software).
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
